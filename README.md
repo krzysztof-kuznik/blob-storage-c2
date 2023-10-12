@@ -1,0 +1,1 @@
+# blob-storage-c2
